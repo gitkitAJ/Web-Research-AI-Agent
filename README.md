@@ -115,7 +115,7 @@ ollama pull qwen2.5:4b
 
 ## Author
 
-Created by Vardaan Makwana as a personal research automation tool
+Created by Aditi Jaiswal as a personal research automation tool
 
 ---
 
